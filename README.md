@@ -1,6 +1,4 @@
-# Image downsampling experiments
-
-write intro
+# Image downsampling experiment
 
 # Results
 
@@ -20,5 +18,6 @@ write intro
 ![rows](manual_rows.png)
 
 ## Manual Downsampling - rows and columns
-This is quantitatively equivalent to Gaussian Pyramid
 ![both](manual_rowscols.png)
+
+**Timing was very close between the classic resizing method for scaling images and the manual downsampling
